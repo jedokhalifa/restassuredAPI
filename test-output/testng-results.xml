@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="4369" started-at="2022-09-25T16:53:07 GMT+02:00" finished-at="2022-09-25T16:53:12 GMT+02:00">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="4369" started-at="2022-09-25T16:53:07 GMT+02:00" finished-at="2022-09-25T16:53:12 GMT+02:00">
+      <class name="RestAssured.VideoGameProject.VGTestCases">
+        <test-method status="PASS" signature="test_getAllVideoGames()[pri:1, instance:RestAssured.VideoGameProject.VGTestCases@3cef309d]" name="test_getAllVideoGames" duration-ms="2773" started-at="2022-09-25T16:53:07 GMT+02:00" finished-at="2022-09-25T16:53:10 GMT+02:00">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_getAllVideoGames -->
+        <test-method status="PASS" signature="test_addVideoGame()[pri:2, instance:RestAssured.VideoGameProject.VGTestCases@3cef309d]" name="test_addVideoGame" duration-ms="524" started-at="2022-09-25T16:53:10 GMT+02:00" finished-at="2022-09-25T16:53:11 GMT+02:00">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_addVideoGame -->
+        <test-method status="PASS" signature="test_getVideogame()[pri:3, instance:RestAssured.VideoGameProject.VGTestCases@3cef309d]" name="test_getVideogame" duration-ms="868" started-at="2022-09-25T16:53:11 GMT+02:00" finished-at="2022-09-25T16:53:12 GMT+02:00">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_getVideogame -->
+        <test-method status="PASS" signature="test_updateVideoGame()[pri:4, instance:RestAssured.VideoGameProject.VGTestCases@3cef309d]" name="test_updateVideoGame" duration-ms="80" started-at="2022-09-25T16:53:12 GMT+02:00" finished-at="2022-09-25T16:53:12 GMT+02:00">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_updateVideoGame -->
+        <test-method status="PASS" signature="test_deleteVideoGame()[pri:5, instance:RestAssured.VideoGameProject.VGTestCases@3cef309d]" name="test_deleteVideoGame" duration-ms="42" started-at="2022-09-25T16:53:12 GMT+02:00" finished-at="2022-09-25T16:53:12 GMT+02:00">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_deleteVideoGame -->
+      </class> <!-- RestAssured.VideoGameProject.VGTestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
